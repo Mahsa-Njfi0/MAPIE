@@ -12,4 +12,4 @@ To run and convert the notebooks contained in this folder, create a dedicated vi
 
 # Use notebooks in documentation
 
-MAPIE's documentation is built with MkDocs. Prefer adding runnable documentation examples as Python scripts in the `examples/` folder so they are rendered by the gallery. Standalone notebooks can be linked from Markdown pages under `doc/` when a notebook format is more appropriate.
+MAPIE's documentation is built with MkDocs. Prefer adding runnable documentation examples as Python scripts in the `examples/` folder, thus they are rendered by the gallery. Standalone notebooks can be linked from Markdown pages under `doc/` when a notebook format is more appropriate.
